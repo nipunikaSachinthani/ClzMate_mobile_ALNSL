@@ -46,7 +46,7 @@ render() {
           </TouchableOpacity>
           <TouchableOpacity>
               <Text style={styles.btnTextSingUp}>
-                    Not a member? Sing Up Now 
+                    Not a member? Sing Up Now  
               </Text>
           </TouchableOpacity>
 
