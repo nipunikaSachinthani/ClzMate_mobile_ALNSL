@@ -39,11 +39,6 @@ render() {
             placeholder="Password"
           />
 
-          <TouchableOpacity>          
-              <Text style={styles.btnText}>
-                    LOGIN
-              </Text>
-          </TouchableOpacity>
           <TouchableOpacity>
               <Text style={styles.btnTextSingUp}>
                     Not a member? Sing Up Now  
